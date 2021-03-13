@@ -1,2 +1,2 @@
-# flyingdutchman.github.io
+# flyingDutchman
 Проект по информатике - Экспертные системы
